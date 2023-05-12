@@ -1,0 +1,22 @@
+.auth-form-desktop {
+  background-color: azure;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 33vh;
+  width: 400px;
+  border-radius: 10px;
+  padding-bottom: 24px;
+  padding-top: 40px;
+  text-align: center;
+  margin-left: 40vw;
+}
+
+.auth-form-mobile {
+  margin-top: 33vh;
+  width: 400px;
+  border-radius: 10px;
+  padding-bottom: 24px;
+  padding-top: 10px;
+  text-align: center;
+  margin-left: 13vw;
+}
